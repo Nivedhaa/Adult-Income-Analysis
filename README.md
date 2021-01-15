@@ -11,7 +11,7 @@ Extraction was done by Barry Becker from the 1994 Census database. A set of reas
 Prediction task is to determine whether a person makes over 50K a year.
 
 # ATTRIBUTE INFORMATION:
-Target Variable: Income: 50K, <=50K
+Target Variable: Income: 50K, <=50K<br>
 age: continuous.
 workclass: Private, Self-emp-not-inc, Self-emp-inc, Federal-gov, Local-gov, State-gov, Without-pay, Never-worked.
 fnlwgt: continuous. final weight. In other words, this is the number of people the census believes the entry represents
